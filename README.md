@@ -13,7 +13,7 @@ A fun Python-based chatbot named Cupid that responds to your messages with charm
 Open Command Prompt (cmd) and run these commands one by one:
 
 ```cmd
-git clone <your-github-repo-link>
+git clone https://github.com/Ahsuu27488/Cupid.git
 cd Cupid
 pip install -r requirements.txt
 python main.py
@@ -25,7 +25,7 @@ That's it! Cupid will start chatting with you. 💕
 
 **Step 1:** Clone the repository
 ```cmd
-git clone <your-github-repo-link>
+git clone https://github.com/Ahsuu27488/Cupid.git
 ```
 
 **Step 2:** Navigate to the folder
